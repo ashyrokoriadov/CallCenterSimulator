@@ -1,0 +1,11 @@
+c:\users\andre\documents\visual studio 2015\Projects\CallCenter\CallCenter\bin\Debug\CallCenter.exe.config
+c:\users\andre\documents\visual studio 2015\Projects\CallCenter\CallCenter\bin\Debug\CallCenter.exe
+c:\users\andre\documents\visual studio 2015\Projects\CallCenter\CallCenter\bin\Debug\CallCenter.pdb
+c:\users\andre\documents\visual studio 2015\Projects\CallCenter\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+c:\users\andre\documents\visual studio 2015\Projects\CallCenter\CallCenter\obj\Debug\CallCenter.exe
+c:\users\andre\documents\visual studio 2015\Projects\CallCenter\CallCenter\obj\Debug\CallCenter.pdb
+E:\Workspace\GIT\CallCenter - ver.1.0.0.0\CallCenter\bin\Debug\CallCenter.exe.config
+E:\Workspace\GIT\CallCenter - ver.1.0.0.0\CallCenter\obj\Debug\CallCenter.exe
+E:\Workspace\GIT\CallCenter - ver.1.0.0.0\CallCenter\obj\Debug\CallCenter.pdb
+E:\Workspace\GIT\CallCenter - ver.1.0.0.0\CallCenter\bin\Debug\CallCenter.exe
+E:\Workspace\GIT\CallCenter - ver.1.0.0.0\CallCenter\bin\Debug\CallCenter.pdb
