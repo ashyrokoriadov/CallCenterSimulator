@@ -9,3 +9,4 @@ E:\Workspace\GIT\CallCenter - ver.1.0.0.0\CallCenter\obj\Debug\CallCenter.exe
 E:\Workspace\GIT\CallCenter - ver.1.0.0.0\CallCenter\obj\Debug\CallCenter.pdb
 E:\Workspace\GIT\CallCenter - ver.1.0.0.0\CallCenter\bin\Debug\CallCenter.exe
 E:\Workspace\GIT\CallCenter - ver.1.0.0.0\CallCenter\bin\Debug\CallCenter.pdb
+E:\Workspace\GIT\CallCenter - ver.1.0.0.0\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache

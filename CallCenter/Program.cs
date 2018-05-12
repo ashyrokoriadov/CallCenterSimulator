@@ -77,7 +77,8 @@ namespace CallCenter
                 //Wait 3 seconds for new calls.
                 Thread.Sleep(3000);
             }
-            ReadyForNextCall(calls);
+
+            ReadyForNextCall?.Invoke(calls);
         } 
 
         public void Conversation()
